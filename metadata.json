@@ -1,0 +1,6 @@
+{
+  "name": "OVEN & OAK — Artisanal Bakery",
+  "description": "Artisanal small pizzas, Belgian fudge cakes, brownies, chicken buns, fresh breads, snacks and drinks in Pakistani Rupees (PKR).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
